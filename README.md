@@ -90,9 +90,11 @@ Backend & Cloud-Focused Developer Building Scalable Applications
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Akaash-S&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akaash-S&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akaash-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akaash-S&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
