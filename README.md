@@ -1,7 +1,7 @@
 <h1 align="center">Akaash S</h1>
 
 <h3 align="center">
-Backend & Cloud-Focused Developer Building Scalable Web Applications
+Backend & Cloud-Focused Developer Building Scalable Applications
 </h3>
 
 <div align="center">
@@ -22,7 +22,7 @@ Backend & Cloud-Focused Developer Building Scalable Web Applications
 
 ## 🚀 About Me
 
-- 🎓 Third Year Information Technology Student at MSEC
+- 🎓 Final Year Information Technology Student at MSEC
 - ⚡ Focused on Backend Engineering, Cloud Computing & Scalable Architectures
 - 🧠 Passionate about building AI-integrated web applications and real-time systems
 - ☁️ Exploring AWS cloud services, distributed systems, and modern backend infrastructures
@@ -37,7 +37,7 @@ Backend & Cloud-Focused Developer Building Scalable Web Applications
 ### 🚀 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,bash" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ Backend & Cloud-Focused Developer Building Scalable Web Applications
 ### ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,firebase" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Backend & Cloud-Focused Developer Building Scalable Web Applications
 ### ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,github" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Backend & Cloud-Focused Developer Building Scalable Web Applications
 ### 🧠 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=cursor,vscode,antigravity,postman" />
 </p>
 
 ---
