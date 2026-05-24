@@ -77,9 +77,13 @@ Backend & Cloud-Focused Developer Building Scalable Applications
 ### 🧠 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cursor,vscode,antigravity,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,blender" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-A855F7?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 ---
 
 # 📊 GitHub Analytics
