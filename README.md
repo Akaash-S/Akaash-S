@@ -5,7 +5,7 @@ Backend & Cloud-Focused Developer Building Scalable Web Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Cloud+Computing+Enthusiast;AI-Integrated+Application+Builder;Open-Source+Project+Developer;Real-Time+Systems+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Cloud+DevOps+Engineer+Enthusiast" />
 </p>
 
 ---
