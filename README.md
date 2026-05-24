@@ -1,7 +1,7 @@
 <h1 align="center">Akaash S</h1>
 
 <h3 align="center">
-Backend & Cloud-Focused Developer Building Scalable Applications
+Backend & Cloud-Focused Developer Building Scalable Web Applications
 </h3>
 
 <div align="center">
@@ -20,14 +20,13 @@ Backend & Cloud-Focused Developer Building Scalable Applications
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Final Year Information Technology Student at MSEC
+- 🎓 Third Year Information Technology Student at MSEC
 - ⚡ Focused on Backend Engineering, Cloud Computing & Scalable Architectures
 - 🧠 Passionate about building AI-integrated web applications and real-time systems
 - ☁️ Exploring AWS cloud services, distributed systems, and modern backend infrastructures
 - 💬 Interested in APIs, Authentication Systems, WebSockets & Database Design
-- 🎬 Developing an Open-Source Movie Recommendation & Review Platform
 - 🔥 Building scalable applications with strong backend functionality and clean UI/UX
 
 ---
@@ -37,7 +36,7 @@ Backend & Cloud-Focused Developer Building Scalable Applications
 ### 🚀 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,bash" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
 </p>
 
 ---
@@ -45,7 +44,7 @@ Backend & Cloud-Focused Developer Building Scalable Applications
 ### 🎨 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,vite,next,tailwind,html,css" />
 </p>
 
 ---
@@ -53,7 +52,7 @@ Backend & Cloud-Focused Developer Building Scalable Applications
 ### ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,firebase,supabase" />
 </p>
 
 ---
@@ -84,11 +83,10 @@ Backend & Cloud-Focused Developer Building Scalable Applications
   <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-A855F7?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
+
 ---
 
 # 📊 GitHub Analytics
-
-<div align="center">
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akaash-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -96,15 +94,9 @@ Backend & Cloud-Focused Developer Building Scalable Applications
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akaash-S&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Akaash-S&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akaash-S&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -118,35 +110,40 @@ Backend & Cloud-Focused Developer Building Scalable Applications
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Current Focus
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Akaash-S&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
+- ☁️ Deepening knowledge in Cloud Computing & AWS Services
+- ⚙️ Building scalable backend systems and real-time applications
+- 🧠 Exploring AI-integrated application architectures
+- 🔥 Improving system design, APIs, authentication, and deployment workflows
+- 📚 Learning advanced backend engineering concepts and distributed systems
 
 ---
 
 # 🔥 Featured Projects
 
-### 🎬 Movie Recommendation & Review System
-AI-powered movie discovery platform with chatbot integration, advanced filtering, reviews, and director-focused exploration.
+### 🌉 SkillBridge *(Individual Project)*
+Platform focused on connecting opportunities, collaboration, and modern web experiences with scalable backend functionality.
 
 ---
 
-### 💬 Real-Time Chat Application
-Modern communication platform featuring WebSockets, JWT authentication, Firebase integration, and scalable backend architecture.
+### 🤖 Dynamic Meeting Assistant *(Individual Project)*
+AI-powered meeting assistant featuring speech processing, intelligent summaries, task extraction, and workflow automation.
 
 ---
 
-### 🌱 Eco Impact Tracker
-Carbon footprint calculator focused on sustainability analytics and environmental awareness.
+### 🧠 MediMind AI *(Contributed Project)*
+AI-integrated healthcare-oriented platform designed to improve intelligent assistance and smart medical interaction workflows.
 
 ---
 
-### 🧠 AI Classroom Assistant
+### 🎓 AI Classroom Assistant *(Individual Project)*
 Smart classroom management system with speech-to-text processing, AI-powered summarization, task extraction, and automated reminders.
+
+---
+
+### ⚡ NexOps *(Individual Project)*
+Modern scalable application focused on operational workflows, backend efficiency, and real-time system architecture.
 
 ---
 
