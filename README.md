@@ -77,7 +77,7 @@ Backend & Cloud-Focused Developer Building Scalable Applications
 ### 🧠 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
 <p align="left">
