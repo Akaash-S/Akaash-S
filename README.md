@@ -341,9 +341,11 @@ A career-development platform that tracks skills, analyzes skill gaps against jo
 
 <br/><br/>
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akaash-S&theme=tokyo-night&hide_border=true&radius=16)](https://github.com/Akaash-S)
-
-<img src="https://raw.githubusercontent.com/Akaash-S/Akaash-S/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akaash-S/Akaash-S/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akaash-S/Akaash-S/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution activity snake" src="https://raw.githubusercontent.com/Akaash-S/Akaash-S/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
