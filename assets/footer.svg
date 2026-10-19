@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6D28D9"/>
+      <stop offset="0.5" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="140"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="140" fill="url(#bg)"/>
+    <circle cx="357" cy="68" r="2.0" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1001" cy="42" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="1054" cy="45" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="896" cy="23" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="106" cy="70" r="2.0" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="89" cy="57" r="2.0" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="774" cy="17" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="275" cy="17" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="841" cy="77" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="982" cy="45" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="165" cy="30" r="2.0" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="431" cy="58" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="617" cy="61" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="671" cy="77" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="211" cy="35" r="2.0" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="25" cy="77" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="672" cy="29" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="733" cy="57" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="1.4s" repeatCount="indefinite"/></circle>
+    <path d="M0,40 Q150,20 300,40 T600,40 T900,40 T1200,40 T1500,40 T1800,40 T2100,40 T2400,40 V140 H0 Z" fill="#38BDF8" fill-opacity="0.2"><animateTransform attributeName="transform" type="translate" from="-600,0" to="0,0" dur="8s" repeatCount="indefinite"/></path>
+    <path d="M0,28 Q150,14 300,28 T600,28 T900,28 T1200,28 T1500,28 T1800,28 T2100,28 T2400,28 V140 H0 Z" fill="#38BDF8" fill-opacity="0.2"><animateTransform attributeName="transform" type="translate" from="0,0" to="-600,0" dur="6s" repeatCount="indefinite"/></path>
+  </g>
+</svg>

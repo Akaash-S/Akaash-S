@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Akaash S, Backend and Cloud Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="260"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="260" fill="url(#bg)"/>
+    <circle cx="683" cy="53" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="168" cy="152" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="1059" cy="69" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="876" cy="32" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="141" cy="159" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="832" cy="27" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="613" cy="122" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="651" cy="158" r="2.0" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="404" cy="110" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="1175" cy="30" r="2.0" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="1108" cy="124" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="760" cy="91" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="187" cy="162" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="723" cy="129" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="261" cy="146" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="331" cy="140" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="1162" cy="161" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1037" cy="163" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="572" cy="136" r="2.0" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="144" cy="194" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="602" cy="198" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="66" cy="133" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="1031" cy="30" r="1.2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="527" cy="116" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="360" cy="129" r="1.6" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.0s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="300" cy="125" r="2.0" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="2.1s" repeatCount="indefinite"/></circle>
+    <path d="M0,205 Q150,179 300,205 T600,205 T900,205 T1200,205 T1500,205 T1800,205 T2100,205 T2400,205 V260 H0 Z" fill="#38BDF8" fill-opacity="0.18"><animateTransform attributeName="transform" type="translate" from="0,0" to="-600,0" dur="9s" repeatCount="indefinite"/></path>
+    <path d="M0,222 Q150,202 300,222 T600,222 T900,222 T1200,222 T1500,222 T1800,222 T2100,222 T2400,222 V260 H0 Z" fill="#38BDF8" fill-opacity="0.28"><animateTransform attributeName="transform" type="translate" from="-600,0" to="0,0" dur="6.5s" repeatCount="indefinite"/></path>
+    <path d="M0,238 Q150,224 300,238 T600,238 T900,238 T1200,238 T1500,238 T1800,238 T2100,238 T2400,238 V260 H0 Z" fill="#0F172A" fill-opacity="0.5"><animateTransform attributeName="transform" type="translate" from="0,0" to="-600,0" dur="5s" repeatCount="indefinite"/></path>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+      <text x="600" y="112" text-anchor="middle" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="#FFFFFF" letter-spacing="1">Akaash S</text>
+      <text x="600" y="158" text-anchor="middle" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="23" fill="#BAE6FD">Backend &amp; Cloud Engineer  |  Distributed Systems on AWS</text>
+    </g>
+  </g>
+</svg>

@@ -1,11 +1,11 @@
 <!-- Profile repo: github.com/Akaash-S/Akaash-S (must be public).
-     Section icons are local SVG files in assets/icons/ (commit that folder together with this README).
-     To recolour them, change stroke="#38BDF8" inside the .svg files. -->
+     The banner, divider, footer and section icons are local SVG files in assets/ (commit that folder together with this README).
+     To recolour the icons, change stroke="#38BDF8" inside assets/icons/*.svg. -->
 
 <!-- ============================ BANNER ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Akaash%20S&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%26%20Cloud%20Engineer%20%7C%20Distributed%20Systems%20on%20AWS&descSize=20&descAlignY=60" alt="Akaash S banner" />
+<img width="100%" src="assets/banner.svg" alt="Akaash S: Backend and Cloud Engineer" />
 
 <a href="https://github.com/Akaash-S">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=Event-driven+backends+that+stay+up;Least-privilege+IAM+with+AWS+%2B+LLM+guardrails;Java+%7C+Python+%7C+TypeScript;Redis+Streams%2C+SQS%2C+PostgreSQL%2C+Docker" alt="Typing animation" />
@@ -29,7 +29,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="" />
+<img width="100%" src="assets/divider.svg" alt="" />
 
 <!-- ============================ ABOUT ============================ -->
 <a id="about"></a>
@@ -364,6 +364,6 @@ A career-development platform that tracks skills, analyzes skill gaps against jo
 
 *"Building scalable systems engineered for real-world impact."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" alt="" />
+<img width="100%" src="assets/footer.svg" alt="" />
 
 </div>
